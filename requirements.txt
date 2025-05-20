@@ -1,0 +1,8 @@
+pandas
+openai
+pypdf
+loguru
+promptic
+tenacity
+gradio>=5.25.2 
+gradio-client>=1.8.0
